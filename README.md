@@ -48,6 +48,4 @@ I also document my learning process through platforms like HackMD and GitHub, en
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Moyu0730&row=2&column=4&title=-Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Moyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyu0730)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Moyu0730"> <img height="200px" src="https://github-profile-trophy.vercel.app/?username=Moyu0730&row=2&column=4&title=-Issues">
