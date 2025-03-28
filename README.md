@@ -20,7 +20,7 @@ Currently studying **Computer Science** at **Yuan Ze University**. My academic p
   5. **The 4th National Autonomy Study Annual Conference**：Best Award
 * 2024
   1. **NCPC**：8th（Honorable Mention、8th among Private Schools）
-  2. **ICPC**：Bronze Medal（1st in Private Schools)
+  2. **ICPC**：Bronze Medal（1st in Private Schools）
 * 2025
   1. **Yuan Ze University Information Week Programming Contest - Team Competition**：1st
 
@@ -47,5 +47,7 @@ I also document my learning process through platforms like HackMD and GitHub, en
 ![coverage](https://img.shields.io/badge/Fields%20of%20Interest-Computer%20Vision-A5A552)
 
 ## 📊 GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moyu0730&row=2&column=4&title=-Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Moyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyu0730)](https://github.com/anuraghazra/github-readme-stats)
