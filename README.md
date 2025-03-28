@@ -48,5 +48,9 @@ I also document my learning process through platforms like HackMD and GitHub, en
 
 ## 📊 GitHub Stats
 
+<details>
+  <summary>My Github Troph</summary>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Moyu0730&rank=-?">
+</details>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Moyu0730">
-<img src="https://github-profile-trophy.vercel.app/?username=Moyu0730&rank=-?">
