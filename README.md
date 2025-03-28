@@ -47,4 +47,5 @@ I also document my learning process through platforms like HackMD and GitHub, en
 ![coverage](https://img.shields.io/badge/Fields%20of%20Interest-Computer%20Vision-A5A552)
 
 ## 📊 GitHub Stats
-[![Moyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyu)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Moyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyu0730)](https://github.com/anuraghazra/github-readme-stats)
