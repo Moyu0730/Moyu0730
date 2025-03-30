@@ -37,6 +37,7 @@ I also document my learning process through platforms like HackMD and GitHub, en
 ![coverage](https://img.shields.io/badge/Language-CSS-0080FF)
 ![coverage](https://img.shields.io/badge/Language-Javascript-B15BFF)
 ![coverage](https://img.shields.io/badge/Language-SQL-FF44FF)
+![coverage](https://img.shields.io/badge/Language-Typescript-EA0000)
 
 ![coverage](https://img.shields.io/badge/Frameworks%20&%20Tools-Git-B87070)
 ![coverage](https://img.shields.io/badge/Frameworks%20&%20Tools-HackMD-B87070)
