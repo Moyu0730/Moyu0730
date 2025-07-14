@@ -23,6 +23,7 @@ Currently studying **Computer Science** at **Yuan Ze University**. My academic p
   2. **ICPC**：Bronze Medal（1st in Private Schools）
 * 2025
   1. **Yuan Ze University Information Week Programming Contest - Team Competition**：1st
+  2. **ICPC Taiwan Private University Programming Contest**：5st (Gold Medalist)
 
 I actively participate in various programming contests, including ACM ICPC, and AtCoder Weekly Contest, continually refining my skills.
 I also document my learning process through platforms like HackMD and GitHub, ensuring knowledge retention and structured improvement.
